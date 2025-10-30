@@ -76,9 +76,12 @@ body {
 }
 
 .btn-outline:hover {
-    background-color: #3e5c76;
-    color: #f0ebd8;
+  background-color: #4f0147;
+  color: #f3e1ff;
+  box-shadow: 0 0 12px rgba(209, 139, 255, 0.6);
+  transform: translateY(-2px);
 }
+
 
 /* ===========================
    HERO SECTION
